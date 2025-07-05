@@ -1,0 +1,19 @@
+# Node / React
+node_modules/
+dist/
+.vite/
+.env.local
+
+# Rails
+kuronote-back/log/
+kuronote-back/tmp/
+kuronote-back/vendor/
+kuronote-back/storage/
+kuronote-back/.env
+*.sqlite3
+
+# 共通
+.DS_Store
+.env
+
+
